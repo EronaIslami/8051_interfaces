@@ -1,5 +1,5 @@
 # 74HC595 & 74HC165
-The circuit was built using Proteus v8.11. The code is written in Assembly language.Project devces are:74HC595 and 74HC165 shiftregisters,7seg display,pushbuttons.
+The circuit was built using Proteus 8 Proffesional.The code is written in Assembly language.Project devces are:74HC595 and 74HC165 shiftregisters,7seg display,pushbuttons.
 Whenever we push the +1 pushbutton the value in display with be incremented for +1,otherwise when we push the -1 pushbutton the value in display with be decremented for -1.
 
 
